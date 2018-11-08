@@ -1,5 +1,6 @@
 
 body{
+<<<<<<< HEAD
 	margin-left: 40px;
 	background:#f7d794
 }
@@ -21,3 +22,14 @@ body{
 	background:plum;
 	width: 500px;
 }
+=======
+	background:#f7d794
+}
+.mytr{
+	background:pink
+}
+.btn{
+	background:red
+}
+
+>>>>>>> 263d200346b39fda67b95efc22e31b65361982a2
